@@ -1,6 +1,6 @@
 # -B_HTML-CSS-jQuery-Arduino
 
-Code examples for using sensors plugged into an Arduino Board interacting with HTML page, specifically HTML DOM, using jQuery and Websocket (port : 5205, .
+Code examples for using sensors plugged into an Arduino Board interacting with HTML page, specifically HTML DOM, using jQuery and Websocket (port : 5205, address : '/dataFlowFromArduino').
 
 
 # Operating principle
