@@ -4,7 +4,8 @@ Code examples for using sensors plugged into an Arduino Board interacting with H
 
 
 # Operating principle
-xxx
+
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/operating-principle.png)
 
 # Software Install
 
