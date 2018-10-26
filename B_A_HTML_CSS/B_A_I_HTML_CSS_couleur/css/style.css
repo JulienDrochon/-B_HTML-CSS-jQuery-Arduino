@@ -1,0 +1,69 @@
+/* //code by Julien Drochon
+//www.julien-drochon.net
+//for Soft Machine Lesson at ESA Pyrenees : www.esapyrenees.fr
+// License Creative Commons BY-NC */
+
+/* commentaire */
+/* Webfont: Dia-Black */@font-face {
+font-family: 'DiaBlack';
+src: url('fonts/Dia-Black.eot'); /* IE9 Compat Modes */
+src: url('fonts/Dia-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('fonts/Dia-Black.woff') format('woff'), /* Modern Browsers */
+url('fonts/Dia-Black.ttf') format('truetype'); /* Safari, Android, iOS */
+url('fonts/Dia-Black.svg#Dia-Black') format('svg'), /* Legacy iOS */
+font-style:normal;
+font-weight:600;
+text-rendering: optimizeLegibility;
+}
+/* Webfont: Dia-Bold */@font-face {
+font-family: 'DiaBold';
+src: url('fonts/Dia-Bold.eot'); /* IE9 Compat Modes */
+src: url('fonts/Dia-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('fonts/Dia-Bold.woff') format('woff'), /* Modern Browsers */
+url('fonts/Dia-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+url('fonts/Dia-Bold.svg#Dia-Bold') format('svg'), /* Legacy iOS */
+font-style: normal;
+font-weight:bold;
+text-rendering: optimizeLegibility;
+}
+/* Webfont: Dia-Regular */@font-face {
+font-family: 'DiaRegular';
+src: url('fonts/Dia-Regular.eot'); /* IE9 Compat Modes */
+src: url('fonts/Dia-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('fonts/Dia-Regular.woff') format('woff'), /* Modern Browsers */
+url('fonts/Dia-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+url('fonts/Dia-Regular.svg#Dia-Regular') format('svg'), /* Legacy iOS */
+font-style: normal;
+font-weight: normal;
+text-rendering: optimizeLegibility;
+}
+
+body{
+  background-color: #eee;
+  background-image: url('portrait.png');
+  background-attachment: fixed;
+  background-position: top center;
+  background-size: cover;
+}
+h1{
+  font-family: 'DiaBlack';
+  font-size:4em;
+  color:red;
+}
+h2{
+  font-family: 'DiaBold';
+  font-size:4em;
+  color : rgb(255, 0, 0);
+}
+p {
+  font-family: 'DiaRegular';
+  font-size:2em;
+  color : #ff0000;
+}
+.couleur-de-fond{
+  color:white;
+  background-color: red;
+}
+.transparence{
+  opacity:0.5;
+}
