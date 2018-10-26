@@ -1,20 +1,15 @@
-# 03 | Arduino sensors + to + P5js + DOM
-Code examples for using sensors plugged into an Arduino Board interacting with P5js in web browser, specifically HTML DOM.
+# -B_HTML-CSS-jQuery-Arduino
+
+Code examples for using sensors plugged into an Arduino Board interacting with HTML page, specifically HTML DOM, using jQuery and Websocket (port : 5205, .
 
 
 # Operating principle
-
-<img class="aligncenter wp-image-2502 size-full" src="http://www.online-courses.julien-drochon.net/wp-content/uploads/2018/05/arduino-sensor-to-p5js-01.png" alt=""/>
+xxx
 
 # Software Install
 
- - P5 Serial Control
-
-Downlaod and install p5 serial control first : https://github.com/vanevery/p5.serialcontrol/releases
-
- - MAMP
-Downlaod and install MAMP first : https://www.mamp.info/en/downloads/
-
+ — Download Arduino to Web browser Utility [here](https://github.com/JulienDrochon/00_Github_Utilities/tree/master/00_01_Arduino_to_webBrowser_Utility)
+ 
 # Folders detail 
 
 
