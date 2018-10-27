@@ -1,27 +1,34 @@
-# -B_HTML-CSS-jQuery-Arduino
+# B_A_A_fichier_HTML_vierge_commentaire
+# B_A_B_HTML_hierarchie_texte!
 
-Code examples for using sensors plugged into an Arduino Board interacting with HTML page, specifically HTML DOM, using jQuery and Websocket (port : 5205, address : '/dataFlowFromArduino').
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_B_HTML_hierarchie_texte/apercu.png)
 
+# B_A_C_HTML_images
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_C_HTML_images/apercu.png)
 
-# Operating principle
-xxx
+# B_A_D_HTML_video
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_D_HTML_video/apercu.png)
 
-# Software Install
+# B_A_E_HTML_audio
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_E_HTML_audio/apercu.png)
 
-![enter image description here](https://raw.githubusercontent.com/JulienDrochon/00_Github_Utilities/master/00_01_Arduino_to_webBrowser_Utility/screenshot.png)
+# B_A_F_HTML_CSS_color
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_F_HTML_CSS_color/apercu.png)
 
+# B_A_G_HTML_CSS_id_class
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_G_HTML_CSS_id_class/apercu.png)
 
- — Download Arduino to Web browser Utility [here](https://github.com/JulienDrochon/00_Github_Utilities/tree/master/00_01_Arduino_to_webBrowser_Utility)
- 
-# Folders detail 
+# B_A_H_HTML_CSS_typographie
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_H_HTML_CSS_typographie/apercu.png)
 
+# B_A_I_HTML_CSS_couleur
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_I_HTML_CSS_couleur/apercu.png)
 
-**A_Arduino_Sensors**
-Code examples for uploading to Arduino Board. Used sensors : 1 potentiometer, 1 switch button, 1 distance sensor (HCSR04), 1 photocell, 2 potentiometers, 2 switch buttons, 2 photocells. Wiring schematics inside folders.
+# B_A_J_HTML_CSS_grids_01
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_J_HTML_CSS_grids_01/apercu.png)
 
-**B_p5js**
-Codes receiving data from 1 sensor into the web browser. Edit the *sketch.js* file for customizing.
+# B_A_K_HTML_CSS_grids 02
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_K_HTML_CSS_grids%2002/apercu.png)
 
- 
-**C_Mes_Projets**
-Folder where to duplicate examples for customizing or creating new sketches.
+# B_A_L_HTML_CSS_grids 03
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_A_HTML_CSS/B_A_L_HTML_CSS_grids%2003/apercu.gif)
