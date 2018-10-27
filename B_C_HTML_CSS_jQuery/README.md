@@ -1,8 +1,11 @@
 # A_HTML_CSS_jQuery
 
 # B_HTML_CSS_jQuery_texte_couleur_taille
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_C_HTML_CSS_jQuery/B_C_B_HTML_CSS_jQuery_texte_couleur_taille/apercu.png)
 # C_HTML_CSS_jQuery_texte_typographie
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_C_HTML_CSS_jQuery/B_C_C_HTML_CSS_jQuery_texte_typographie/apercu.png)
 # D_HTML_CSS_jQuery_texte_hide
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_C_HTML_CSS_jQuery/B_C_D_HTML_CSS_jQuery_texte_hide/apercu.png)
 # E_HTML_CSS_jQuery_texte_position
 ![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_C_HTML_CSS_jQuery/B_C_E_HTML_CSS_jQuery_texte_position/apercu.png)
 # F_HTML_CSS_jQuery_texte_width
