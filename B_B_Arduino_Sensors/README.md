@@ -1,27 +1,17 @@
-# -B_HTML-CSS-jQuery-Arduino
+# B_B_A_Button
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_A_Button/composant.jpg)![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_A_Button/schema_button.png)
+# B_B_B_Potentiometre
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_B_Potentiometre/composant.jpg)![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_B_Potentiometre/schema_potentiometre.png)
+# B_B_C_Photocell
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_C_Photocell/composant.jpg)
 
-Code examples for using sensors plugged into an Arduino Board interacting with HTML page, specifically HTML DOM, using jQuery and Websocket (port : 5205, address : '/dataFlowFromArduino').
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_C_Photocell/schema_ldr.png)
+# B_B_D_HCSR04
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_D_HCSR04/composant.jpg)![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_D_HCSR04/shema_hcsr04.png)
+# B_B_E_2_Potentiometres
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_E_2_Potentiometres/schema_2_potentiometres.png)
+# B_B_F_2_Buttons
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_F_2_Buttons/schema_buttons.png)
 
-
-# Operating principle
-xxx
-
-# Software Install
-
-![enter image description here](https://raw.githubusercontent.com/JulienDrochon/00_Github_Utilities/master/00_01_Arduino_to_webBrowser_Utility/screenshot.png)
-
-
- — Download Arduino to Web browser Utility [here](https://github.com/JulienDrochon/00_Github_Utilities/tree/master/00_01_Arduino_to_webBrowser_Utility)
- 
-# Folders detail 
-
-
-**A_Arduino_Sensors**
-Code examples for uploading to Arduino Board. Used sensors : 1 potentiometer, 1 switch button, 1 distance sensor (HCSR04), 1 photocell, 2 potentiometers, 2 switch buttons, 2 photocells. Wiring schematics inside folders.
-
-**B_p5js**
-Codes receiving data from 1 sensor into the web browser. Edit the *sketch.js* file for customizing.
-
- 
-**C_Mes_Projets**
-Folder where to duplicate examples for customizing or creating new sketches.
+# B_B_G_2_Photocells
+![enter image description here](https://raw.githubusercontent.com/JulienDrochon/-B_HTML-CSS-jQuery-Arduino/master/B_B_Arduino_Sensors/B_B_G_2_Photocells/schema_2_photocells.png)
