@@ -17,12 +17,14 @@ Code examples for using sensors plugged into an Arduino Board interacting with H
 # Folders detail 
 
 
-**A_Arduino_Sensors**
-Code examples for uploading to Arduino Board. Used sensors : 1 potentiometer, 1 switch button, 1 distance sensor (HCSR04), 1 photocell, 2 potentiometers, 2 switch buttons, 2 photocells. Wiring schematics inside folders.
+**B_A_HTML_CSS**
+Code examples for beginning with HTML and CSS. Blank page, tags, text, typography, video, audio, grids.
 
-**B_p5js**
-Codes receiving data from 1 sensor into the web browser. Edit the *sketch.js* file for customizing.
-
+**B_B_Arduino_Sensors**
+Codes for Arduino Board. Sending data from Potentiometer, Switch button, LDR/Photocell and ultrasound sensor.
  
-**C_Mes_Projets**
-Folder where to duplicate examples for customizing or creating new sketches.
+**B_C_HTML_CSS_jQuery**
+Starting using jQuery for DOM (Document Objet Model) Manipulation
+ 
+**B_D_HTML_CSS_Arduino**
+Send data from sensor plugged into an Arduino Board to CSS property in Web Browser.
